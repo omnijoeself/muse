@@ -1,0 +1,8 @@
+/*reset*/
+html, body, .wrapper{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+	background:  #f0eae9;
+}
